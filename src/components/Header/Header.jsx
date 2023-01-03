@@ -56,7 +56,7 @@ const Header = () => {
               <span>
                 <i class="ri-fire-fill"></i>
               </span>
-              NFTs
+              NFT De Gallery
             </h2>
           </div>
 

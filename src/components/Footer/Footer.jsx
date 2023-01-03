@@ -73,7 +73,7 @@ const Footer = () => {
                 <span>
                   <i class="ri-fire-fill"></i>
                 </span>
-                NFTs
+                NFT De Gallery
               </h2>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
@@ -151,7 +151,7 @@ const Footer = () => {
           <Col lg="12" className=" mt-4 text-center">
             <p className="copyright">
               {" "}
-              Copyrights 2022, Developed by Muhibur Rahman. @Muhib's Tech Diary
+              Copyrights 2022, Developed by Armaghan,Dilawaiz and Babar. 
               All Rights Reserved.{" "}
             </p>
           </Col>
